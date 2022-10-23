@@ -1,3 +1,4 @@
+#---Calculadora de variacion de glaciares por Lautaro Cepeda---#
 repetir = "S"
 while (repetir == "S" or repetir == "s"): 
     validar = int(input("\nSeleccione un glaciar: Descubierto(1) | Rocoso(2): "))
